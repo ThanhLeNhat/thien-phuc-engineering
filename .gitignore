@@ -1,0 +1,16 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Intermediates — always regenerated
+.tmp/
+
+# IDE / OS / Tooling
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.gemini/
+.agent/
+.impeccable/
